@@ -1,0 +1,52 @@
+{
+  "title": "Release Title",
+  "upc": "751451679603",
+  "genre": "Childrens Music",
+  "subgenre": "Hip-Hop",
+  "label": "Label Name",
+  "physicalReleaseDate": "2024-12-09",
+  "storeReleaseDate": "2024-12-09",
+  "cline": "© Line",
+  "productionYear": "2024",
+  "catalogueNumber": "ab1",
+  "coverPhoto": "test.jpg",
+  "tracks": [
+    {
+      "title": "Track Title",
+      "isrc": "QZZ432377529",
+      "primaryArtist": [
+        {
+          "name": "Yo Honey Singh",
+          "spotifyId": "7uIbLdzzSEqnX0Pkrb56cR",
+          "youtubeId": "UCGPCYz1FTl_dvFFnzQTQzjw"
+        }
+      ],
+      "writers": ["Writer 1", "Writer 2"],
+      "composers": ["Composer 1", "Composer 2"],
+      "musicDirectors": ["Music Director 1", "Music Director 2"],
+      "producers": ["Producer 1", "Producer 2"],
+      "publisher": "Hney Singh",
+      "language": "Maghi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=C-I_K41mVoQ",
+      "lyrics": null,
+      "media": "test.wav"
+    },
+    {
+      "title": "Track Title",
+      "primaryArtist": [
+        {
+          "name": "Yo Honey Singh"
+        }
+      ],
+      "writers": ["Writer 1", "Writer 2"],
+      "composers": [],
+      "musicDirectors": ["Music Director 1", "Music Director 2"],
+      "producers": ["Producer 1", "Producer 2"],
+      "publisher": "Hney Singh",
+      "language": "Maghi",
+      "youtubeUrl": "https://www.youtube.com/watch?v=C-I_K41mVoQ",
+      "lyrics": null,
+      "media": "test2.wav"
+    }
+  ]
+}
